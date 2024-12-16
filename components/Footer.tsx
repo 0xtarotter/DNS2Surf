@@ -33,6 +33,7 @@ export default function Footer() {
           {' '}
           {new Date().getFullYear()}
           {' '}
+          <mt/>
         </a>
         <span className="mt-4 inline-flex justify-center space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
 
