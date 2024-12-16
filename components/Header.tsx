@@ -83,13 +83,13 @@ export default function Footer() {
                 </span
                 >
                 <a
-                  href="https://github.com/ccbikai/DNS.Desi"
+                  href="https://IP.ICU"
                   target="_blank"
                   rel="noopener"
-                  title="GitHub"
+                  title="IP.ICU"
                   className="inline-flex items-center w-full px-5 px-6 py-3 text-sm font-medium leading-4 text-white bg-gray-900 md:w-auto md:rounded-full hover:bg-gray-800 focus:outline-none md:focus:ring-2 focus:ring-0 focus:ring-offset-2 focus:ring-gray-800"
                 >
-                  GitHub
+                  IP.ICU
                 </a
                 >
               </div>
