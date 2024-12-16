@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="flex items-center justify-start w-1/4 h-full pr-4">
             <a
               href="/"
-              title="DNS.Surf"
+              title="DNS.Desi"
               className="flex items-center py-4 space-x-2 font-extrabold text-xl text-gray-900 md:py-0"
             >
               <span
@@ -25,7 +25,7 @@ export default function Footer() {
               <h1 className="mx-2">
                 DNS
                 <dot className="text-indigo-600">.</dot>
-                Surf
+                Desi
               </h1>
             </a>
           </div>
@@ -42,7 +42,7 @@ export default function Footer() {
             >
               <a
                 href="/"
-                title="DNS.Surf"
+                title="DNS.Desi"
                 className="inline-flex items-center block w-auto h-16 px-6 text-xl font-black leading-none text-gray-900 md:hidden"
               >
                 <span
@@ -53,7 +53,7 @@ export default function Footer() {
                 <span className="mx-2">
                   DNS
                   <dot className="text-indigo-600">.</dot>
-                  Surf
+                  Desi
                 </span>
               </a>
               <div className="w-full">
@@ -83,7 +83,7 @@ export default function Footer() {
                 </span
                 >
                 <a
-                  href="https://github.com/ccbikai/DNS.Surf"
+                  href="https://github.com/ccbikai/DNS.Desi"
                   target="_blank"
                   rel="noopener"
                   title="GitHub"
