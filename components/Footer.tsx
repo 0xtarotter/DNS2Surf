@@ -35,8 +35,9 @@ export default function Footer() {
           {' '}
         </a>
         <span className="mt-4 inline-flex justify-center space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
+          <a>
           <img src="https://park.39mi.com/img/domainking.svg" height="auto" width="150">
-
+          </a>
         </span>
       </div>
     </section>
